@@ -1,0 +1,14 @@
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\bin\Debug\net8.0\PrepBuddy.exe
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\bin\Debug\net8.0\PrepBuddy.deps.json
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\bin\Debug\net8.0\PrepBuddy.runtimeconfig.json
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\bin\Debug\net8.0\PrepBuddy.dll
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\bin\Debug\net8.0\PrepBuddy.pdb
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\PrepBuddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\PrepBuddy.AssemblyInfoInputs.cache
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\PrepBuddy.AssemblyInfo.cs
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\PrepBuddy.csproj.CoreCompileInputs.cache
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\PrepBuddy.dll
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\refint\PrepBuddy.dll
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\PrepBuddy.pdb
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\PrepBuddy.genruntimeconfig.cache
+C:\Users\apeis\PROG101\Midterm\PrepBuddy\PrepBuddy\obj\Debug\net8.0\ref\PrepBuddy.dll
